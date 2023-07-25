@@ -1,3 +1,15 @@
+@import "bgimg.css";
+@import "login-form.css";
+@import "greetings.css";
+@import "clock.css";
+@import "todo.css";
+
 .hidden {
   display: none;
+}
+.input {
+  outline: none;
+}
+input:focus {
+  outline: none;
 }

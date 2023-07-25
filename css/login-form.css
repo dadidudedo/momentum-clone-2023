@@ -1,0 +1,22 @@
+#login-form {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+#login-form span {
+  font-size: 60px;
+}
+
+#login-form input {
+  background: none;
+  border: none;
+  border-bottom: 3px solid white;
+  width: 30vw;
+  font-size: 35px;
+  text-align: center;
+  color: inherit;
+}
